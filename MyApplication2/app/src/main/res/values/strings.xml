@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bluetooth Scanner</string>
+    <string name="connect_to_selected_device">Connect to Selected Device</string>
+    <string name="status_not_connected">Status: Not connected</string>
+    <string name="scan_bluetooth_devices">Scan Bluetooth Devices</string>
+    <string name="devices_will_appear_here">Devices will appear here</string>
+    <string name="scan_bluetooth_devicesc">Scan Bluetooth Devices</string>
+    <string name="devices_will_appear_here1">Devices will appear here...</string>
+</resources>
