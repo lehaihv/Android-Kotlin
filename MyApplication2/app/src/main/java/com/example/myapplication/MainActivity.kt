@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
     // Bluetooth adapter with backward compatibility
     private val bluetoothAdapter: BluetoothAdapter? by lazy {
-        val bluetoothManager = getSystemService(Context.BLUETOOTH_SERVICE) as BluetoothManager?
+        val bluetoothManager = getSystemService(BLUETOOTH_SERVICE) as BluetoothManager?
         bluetoothManager?.adapter
     }
 
